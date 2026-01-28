@@ -1,0 +1,16 @@
+{
+    "name": "pitech_arseille/g-n-ration-de-cv",
+    "autoload": {
+        "psr-4": {
+            "PitechArseille\\GNRationDeCv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "first"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
